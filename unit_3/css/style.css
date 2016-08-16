@@ -1,8 +1,5 @@
-style.css
-
 body {
-	text-align: center;
-	background: url("http://i99.photobucket.com/albums/l284/staledog/swc.jpg");
-	background-size: cover;
-	color: #000000;
+  background: url("http://i99.photobucket.com/albums/l284/staledog/swc.jpg");
+  color: #fff;
+  font-family: Helvetica;
 }
