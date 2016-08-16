@@ -1,6 +1,8 @@
 style.css
+
 body {
+	text-align: center;
 	background: swc.jpg;
 	background-size: cover;
-	background-color: #000000;
+	color: #000000;
 }
