@@ -2,7 +2,7 @@ style.css
 
 body {
 	text-align: center;
-	background: swc.jpg;
+	background: (images/swc.jpg);
 	background-size: cover;
 	color: #000000;
 }
