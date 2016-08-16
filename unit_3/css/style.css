@@ -1,5 +1,6 @@
 body {
   background: url("http://i99.photobucket.com/albums/l284/staledog/swc.jpg");
+  background-size: cover;
   color: #fff;
   font-family: Helvetica;
 }
