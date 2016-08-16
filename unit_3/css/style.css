@@ -34,7 +34,9 @@ p {
 	text-shadow: 2px 3px #000;
 }
 
-ul {
+ul, li {
 
-	color: #fff
+	font-size: 15px;
+	color: #fff;
+	line-height: 160%;
 }
