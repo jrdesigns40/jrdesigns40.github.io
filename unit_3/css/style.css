@@ -23,6 +23,7 @@ hr {
 h2 {
 
 color: #00bff3;
+text-shadow: 2px 3px #000;
 
 }
 
@@ -31,4 +32,9 @@ p {
 	font-weight: bold;
 	color: #fff;
 	text-shadow: 2px 3px #000;
+}
+
+ul {
+
+	color: #fff
 }
