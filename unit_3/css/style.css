@@ -10,6 +10,7 @@ h1 {
 
 	font-size: 50px;
 	color: #ed1c24;
+	text-shadow: 2px 2px #000;
 
 }
 
@@ -21,5 +22,5 @@ hr {
 
 p {
 	color: #fff;
-	text-shadow: 2px 1px #000;
+	text-shadow: 2px 2px #000;
 }
