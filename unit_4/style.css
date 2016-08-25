@@ -1,13 +1,67 @@
+@import 'https://fonts.googleapis.com/css?family=Pirata+One';
+@import 'https://fonts.googleapis.com/css?family=Jura';
+@import 'https://fonts.googleapis.com/css?family=Michroma';
+
 body {
-  text-align: center;
-  background: url("http://i.imgur.com/q0FaaAK.jpg");
-  background-size: cover;
-  color: #fff;
-  font-family: Helvetica;
+  	
+  	text-align: center;
+ 	background-color: #000;
+  	font-family: Helvetica;
 }
+
+h1 {
+
+	font-family: 'Pirata One', cursive;
+	padding-top: 400px;
+	font-size: 75px;
+	letter-spacing: 6px;
+	color: #fff;
+	text-shadow: 3px 4px #000;
+
+}
+
 hr {
-  width: 200px;
+
+	width: 600px;
 }
-p {
-  font-size: 22px;
+
+h2 {
+	
+	font-family: 'Jura', sans-serif;
+	font-weight: bold;
+	color: #00bff3;
+	text-shadow: 2px 3px #000;
+
+}
+
+p {	
+
+	font-family: Times;
+	line-height: 2em;
+	letter-spacing: .10em;
+	font-size: 4em
+	font-weight: bold;
+	color: #fff;
+}
+
+ul {
+	font-size: 20px;
+	color: #fff;
+	line-height: 200%;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+header {
+	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
+  	background-size: cover;
+  	background-color: #000;
+  	background-repeat: no-repeat;
+  	background-position: 50% center;
+  	min-height: 600px;
+}
+
+a {
+
+	color: #ed1c24
 }
