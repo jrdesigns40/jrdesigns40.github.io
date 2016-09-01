@@ -12,11 +12,14 @@ body {
 h1 {
 
 	font-family: 'Pirata One', cursive;
-	padding-top: 400px;
+	padding-top: 1px;
 	font-size: 75px;
 	letter-spacing: 6px;
 	color: #fff;
 	text-shadow: 3px 4px #000;
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
 
 }
 
@@ -53,13 +56,39 @@ ul {
 	margin: 0 auto;
 }
 
+nav {
+
+	text-align: right;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;	
+}
+
+nav a {
+	
+	text-decoration: none;
+	color: #fff;
+}
+
 header {
 	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
-  	background-size: cover;
+  	background-size: contain;
   	background-color: #000;
   	background-repeat: no-repeat;
   	background-position: 50% center;
   	min-height: 600px;
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;	
+
+}
+
+article {
+
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;	
+
 }
 
 a {
