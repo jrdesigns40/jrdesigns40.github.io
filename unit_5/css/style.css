@@ -71,16 +71,25 @@ nav a {
 }
 
 header {
-	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
+	/*background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
   	background-size: contain;
   	background-color: #000;
   	background-repeat: no-repeat;
   	background-position: 50% center;
-  	min-height: 600px;
+  	min-height: 600px;*/
 	background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;	
 
+}
+
+#hero-image {
+		background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
+  	background-size: contain;
+  	background-color: #000;
+  	background-repeat: no-repeat;
+  	background-position;
+  	min-height: 100vh;
 }
 
 article {
