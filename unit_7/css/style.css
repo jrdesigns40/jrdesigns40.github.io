@@ -29,16 +29,6 @@ nav a {
 nav a:hover { 
   background-color: #338833; 
 
-#hero-image {
-	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
-  	background-size: contain;
-  	background-color: #000;
-  	background-repeat: no-repeat;
-  	background-position;
-  	min-height: 600px;
-  	display: block;
-}
-
 .column {
 	float: left;
 	width: 260px;
