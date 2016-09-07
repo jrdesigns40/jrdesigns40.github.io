@@ -1,0 +1,122 @@
+@import 'https://fonts.googleapis.com/css?family=Pirata+One';
+@import 'https://fonts.googleapis.com/css?family=Jura';
+@import 'https://fonts.googleapis.com/css?family=Michroma';
+
+body {
+  	
+  	text-align: center;
+ 	background-color: #000;
+  	font-family: Helvetica;
+}
+
+nav {
+
+	font-family: arial;
+	text-align: right;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+a {
+	
+	background-color: #ffffff;
+	text-decoration: none;
+	float: right;
+	padding: 10px
+}
+
+.clearfix
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+
+a:hover {
+	background-color: #000;
+}
+
+h1 {
+
+	font-family: 'Pirata One', cursive;
+	padding-top: 1px;
+	font-size: 75px;
+	letter-spacing: 6px;
+	color: #fff;
+	text-shadow: 3px 4px #000;
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+
+hr {
+
+	width: 600px;
+}
+
+h2 {
+	
+	font-family: 'Jura', sans-serif;
+	font-weight: bold;
+	color: #00bff3;
+	text-shadow: 2px 3px #000;
+
+}
+
+p {	
+
+	font-family: Times;
+	line-height: 2em;
+	letter-spacing: .10em;
+	font-size: 4em
+	font-weight: 300;
+	color: #fff;
+}
+
+ul {
+	font-family: Times;
+	font-size: 20px;
+	color: #fff;
+	line-height: 200%;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+header {
+	/*background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
+  	background-size: contain;
+  	background-color: #000;
+  	background-repeat: no-repeat;
+  	background-position: 50% center;
+  	min-height: 600px;*/
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;	
+
+}
+
+#hero-image {
+	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
+  	background-size: contain;
+  	background-color: #000;
+  	background-repeat: no-repeat;
+  	background-position;
+  	min-height: 600px;
+  	display: block;
+}
+
+article {
+
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;	
+
+}
+
+a {
+
+	color: #ed1c24
+}
