@@ -28,6 +28,7 @@ nav a {
 
 nav a:hover { 
   background-color: #338833; 
+}
 
 .column {
 	float: left;
