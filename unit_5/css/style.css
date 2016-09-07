@@ -9,6 +9,35 @@ body {
   	font-family: Helvetica;
 }
 
+nav {
+
+	font-family: arial;
+	text-align: right;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+a {
+	
+	background-color: #ffffff;
+	text-decoration: none;
+	float: right;
+	padding: 10px
+}
+
+.clearfix
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+
+a:hover {
+	background-color: #000;
+}
+
 h1 {
 
 	font-family: 'Pirata One', cursive;
@@ -56,20 +85,6 @@ ul {
 	margin: 0 auto;
 }
 
-nav {
-
-	text-align: right;
-	background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;	
-}
-
-nav a {
-	
-	text-decoration: none;
-	color: #fff;
-}
-
 header {
 	/*background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
   	background-size: contain;
@@ -84,12 +99,13 @@ header {
 }
 
 #hero-image {
-		background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
+	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
   	background-size: contain;
   	background-color: #000;
   	background-repeat: no-repeat;
   	background-position;
-  	min-height: 100vh;
+  	min-height: 600px;
+  	display: block;
 }
 
 article {
