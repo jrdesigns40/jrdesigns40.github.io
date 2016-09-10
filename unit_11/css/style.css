@@ -1,18 +1,5 @@
-* {
-	padding: 0;
-	margin: 0;
-
 body {
-	font-family: "Muli", sans-serif;
-	line-height: 1.5;
-	color: #666;
-	position: relative;
-}
-
-img {
-	align: left;
-	height: 2em;
-	display: block;
+	color: #000;
 }
 
 h1 {
@@ -20,16 +7,25 @@ h1 {
 }
 
 nav {
-	text-align: center;
+	text-align: right;
 	font-size: 14px ;
 	color: #FDFAF5;
-	background: #C9C2C1;
-	padding: 20px;
-
-	
+	background: #000;
+	padding: 1em;
 }
 
 nav a {
 	color: #FDFAF5;
-	padding: 25px 25px;
+	padding: 25px;
+	text-decoration: none;
+}
+
+#hero-image {
+	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
+  	background-size: contain;
+  	background-color: #000;
+  	background-repeat: no-repeat;
+  	background-position;
+  	min-height: 600px;
+  	display: block;
 }
