@@ -12,6 +12,11 @@ body {
 img {
 	align: left;
 	height: 2em;
+	display: block;
+}
+
+h1 {
+	text-align: center;
 }
 
 nav {
