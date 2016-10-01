@@ -35,16 +35,6 @@ nav a:hover {
 	margin: 0 auto;
 }
 
-#hero-image {
-	background: url("https://s4.postimg.io/fhlg78uyz/swc2.png");
-  	background-size: contain;
-  	background-color: #000;
-  	background-repeat: no-repeat;
-  	background-position;
-  	min-height: 600px;
-  	display: block;
-}
-
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -56,6 +46,7 @@ nav a:hover {
 
 #top-logo {
 	float:left;
+	display: inline-block;
 }
 
 #nav-right {
@@ -63,11 +54,16 @@ nav a:hover {
 	clear:both;
 }
 
+#middle-banner {
+	width: 100%;
+	display: block;
+
+}
+
 #column article {
 	width: 32.33%;
 	background-color:blue;
 	display:inline-block;
-
 	height:500px;
 	border:1px solid black;
 }

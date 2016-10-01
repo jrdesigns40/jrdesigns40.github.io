@@ -26,14 +26,14 @@ a {
 	padding: 10px
 }
 
-.clearfix
+.clearfix {
 	visibility: hidden;
 	display: block;
 	content: " ";
 	clear: both;
 	height: 0;
 	font-size: 0;
-
+}
 a:hover {
 	background-color: #000;
 }
